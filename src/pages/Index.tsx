@@ -15,7 +15,7 @@ const Index = () => {
                 alt="Нейро логотип" 
                 className="w-8 h-8 mr-2 rounded-full"
               />
-              <span className="text-2xl font-bold text-blue-600 font-mono tracking-wide">Нейро</span>
+              <span className="text-2xl font-black text-blue-600 tracking-tighter uppercase" style={{fontFamily: 'system-ui, -apple-system, sans-serif', letterSpacing: '-0.05em'}}>Нейро</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-gray-700 hover:text-blue-600 transition-colors">Главная</a>
