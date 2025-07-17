@@ -10,6 +10,11 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
+              <img 
+                src="https://cdn.poehali.dev/files/7a9342ee-6133-4b6e-bbcc-8ba9e2856d4f.jpg" 
+                alt="Нейро логотип" 
+                className="w-8 h-8 mr-2"
+              />
               <span className="text-2xl font-bold text-blue-600">Нейро</span>
             </div>
             <div className="hidden md:flex space-x-8">
