@@ -13,7 +13,7 @@ const Index = () => {
               <img 
                 src="https://cdn.poehali.dev/files/7a9342ee-6133-4b6e-bbcc-8ba9e2856d4f.jpg" 
                 alt="Нейро логотип" 
-                className="w-8 h-8 mr-2"
+                className="w-8 h-8 mr-2 rounded-full"
               />
               <span className="text-2xl font-bold text-blue-600">Нейро</span>
             </div>
