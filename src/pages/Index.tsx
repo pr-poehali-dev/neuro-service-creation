@@ -18,7 +18,7 @@ const Index = () => {
               <span className="text-2xl font-black text-blue-600 tracking-tighter uppercase" style={{fontFamily: 'system-ui, -apple-system, sans-serif', letterSpacing: '-0.05em'}}>Нейро</span>
             </div>
             <div className="hidden md:flex space-x-8">
-              <a href="#home" className="text-gray-700 hover:text-blue-600 transition-colors">Главная</a>
+              <a href="#home" className="text-gray-700 hover:text-blue-600 transition-colors font-semibold">Главная</a>
               <a href="#about" className="text-gray-700 hover:text-blue-600 transition-colors">О нас</a>
               <a href="#pricing" className="text-gray-700 hover:text-blue-600 transition-colors">Прайс</a>
               <a href="#contact" className="text-gray-700 hover:text-blue-600 transition-colors">Контакты</a>
